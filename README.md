@@ -1,0 +1,1 @@
+This is the first poject in The Odin Project, the preface of this project is to create a website that links to different recipes. After I have finished, I will have demonstrated basic skills in HTML and be more familiar with Git.
